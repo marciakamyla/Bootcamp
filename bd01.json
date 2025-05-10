@@ -1,0 +1,24 @@
+{
+    "nome": "Marcia",
+    "idade": 18,
+    "email": "marcia@sempreceub.com",
+    "endereco": [
+        {
+          "logradouro": "avenida imaginaria",
+          "numero": 1912,
+          "cep": "73000-001"
+          // quando usado sem aspas duplas se trata de uma conta, pois há o sinal -
+         
+        },
+        {
+            
+                "logradouro": "avenida imaginaria 2",
+                "numero": 1191,
+                "cep": "73000-001"
+                // para acrescentar um novo endereço basta colocar vírgula após a chave de fechamento
+               
+              
+        }
+
+    ]
+}
