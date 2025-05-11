@@ -4,9 +4,7 @@ Bem-vindo ao meu repositório de projetos! Este espaço foi criado com o objetiv
 
 ## Estrutura do Repositório
 
-- `/projetos-academicos`: Projetos desenvolvidos durante o curso de Análise e Desenvolvimento de Sistemas (UniCEUB).
-- `/projetos-pessoais`: Projetos criados para estudo, prática ou curiosidade pessoal.
-- `/documentacao`: Documentos de planejamento, requisitos, e apresentações dos projetos.
+ Projetos desenvolvidos durante o curso de Análise e Desenvolvimento de Sistemas (UniCEUB).
 
 ## Tecnologias Utilizadas
 
@@ -19,7 +17,6 @@ Bem-vindo ao meu repositório de projetos! Este espaço foi criado com o objetiv
 
 - Commits frequentes e com mensagens descritivas
 - Estrutura clara de diretórios
-- Documentação com arquivos `README.md` em cada projeto
 - Colaboração via *forks*, *branches* e *pull requests*
 
 ## Projetos em Destaque
